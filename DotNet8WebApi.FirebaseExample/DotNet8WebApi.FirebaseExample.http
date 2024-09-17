@@ -1,0 +1,6 @@
+@DotNet8WebApi.FirebaseExample_HostAddress = http://localhost:5188
+
+GET {{DotNet8WebApi.FirebaseExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

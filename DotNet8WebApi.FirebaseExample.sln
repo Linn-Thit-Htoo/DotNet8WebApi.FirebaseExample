@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35005.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8WebApi.FirebaseExample", "DotNet8WebApi.FirebaseExample\DotNet8WebApi.FirebaseExample.csproj", "{AB700C6E-67FF-4B06-94C3-FC74A7559575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB700C6E-67FF-4B06-94C3-FC74A7559575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB700C6E-67FF-4B06-94C3-FC74A7559575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB700C6E-67FF-4B06-94C3-FC74A7559575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB700C6E-67FF-4B06-94C3-FC74A7559575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C025AFC-985E-4C65-8E59-4DAA78DB5C76}
+	EndGlobalSection
+EndGlobal
