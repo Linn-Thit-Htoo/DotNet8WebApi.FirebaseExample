@@ -1,5 +1,5 @@
-using FirebaseAdmin;
-using Google.Apis.Auth.OAuth2;
+global using FirebaseAdmin;
+global using Google.Apis.Auth.OAuth2;
 
 var builder = WebApplication.CreateBuilder(args);
 
