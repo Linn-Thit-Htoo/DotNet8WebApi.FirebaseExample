@@ -1,6 +1,6 @@
-﻿using DotNet8WebApi.FirebaseExample.Models;
-using FirebaseAdmin.Messaging;
-using Microsoft.AspNetCore.Mvc;
+﻿global using DotNet8WebApi.FirebaseExample.Models;
+global using FirebaseAdmin.Messaging;
+global using Microsoft.AspNetCore.Mvc;
 
 namespace DotNet8WebApi.FirebaseExample.Controllers;
 
