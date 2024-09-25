@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/DotNet8WebApi.FirebaseExample/testfirebase-ad8e7-firebase-adminsdk-9e77o-4079fd9b62.json
