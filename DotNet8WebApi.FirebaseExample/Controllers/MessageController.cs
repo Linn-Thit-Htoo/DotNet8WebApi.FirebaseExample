@@ -1,8 +1,4 @@
-﻿global using DotNet8WebApi.FirebaseExample.Models;
-global using FirebaseAdmin.Messaging;
-global using Microsoft.AspNetCore.Mvc;
-
-namespace DotNet8WebApi.FirebaseExample.Controllers;
+﻿namespace DotNet8WebApi.FirebaseExample.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]

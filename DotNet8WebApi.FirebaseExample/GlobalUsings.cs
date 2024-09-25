@@ -1,6 +1,3 @@
-﻿namespace DotNet8WebApi.FirebaseExample
-{
-    public class GlobalUsings
-    {
-    }
-}
+﻿global using DotNet8WebApi.FirebaseExample.Models;
+global using FirebaseAdmin.Messaging;
+global using Microsoft.AspNetCore.Mvc;
